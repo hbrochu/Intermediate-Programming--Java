@@ -1,0 +1,73 @@
+a. As a "rule of thumb", how much homework time could one expect to spend 
+outside class and lab time?
+
+Answer: For every hour of class expect three additional hours of work outside of class.
+
+b. What is the test make up policy? And the quiz make up policy?
+
+Answer: Makeup tests are very rarely given. There are no make up quizes.
+
+c. How many files will you submit to blackboard for each assignment?
+
+Answer: You will submit one zipped folder containing folders of all the problems and programs required for the  homework assignment.
+
+d. You can name your homework files anything that makes sense. True or 
+False?
+
+Answer: False, you must use the file/ folder names provided with each homework.
+
+e. Each program should be in a separate folder, even though it may have 
+only one file.   True or False?
+
+Answer: True
+
+f. May one turn in part of the assignment on time and the rest late? 
+
+Answer: No either the whole assignment is turned in on time or it is all late. You may only submit the assignment once.
+
+g. What is the late penalty for a hw marked “late” by blackboard? 
+
+Answer: 30% off the grade given by the TA.
+
+h. What is your grader's name?  (look under blackboard "see my grades" 
+icon)
+
+Answer: Saurav
+
+i. List at least 5 hints for success in the course provided by the instructor in 
+the course website.
+
+Answer: 1. Get organized
+	2. Follow the directions carefully
+	3. Be ready for class
+	4. Program, program, program
+	5. Study every night and not the night before the test.
+
+j. What should you do if you miss lecture and want to know what was 
+covered?
+
+Answer: Check blackboard and contact your class buddy(s)
+
+k. What is the date of the first quiz?
+
+Answer: Thursday January 24
+
+l. Homework may be emailed to the TA if the drop box is closed.  True or 
+False?
+
+Answer: False
+
+m. How many late coupons does each student get?
+
+Answer: 2 coupons
+
+n. Where (specifically) are the installation instructions for putting the course 
+software on your machine?
+
+Answer: on blackboard under the software tools link under install Java.
+
+o. Where (specifically) are the installation instructions for downloading a file 
+from the CEMS (“M”) storage to your home computer.  (What software is 
+recommended to install on your home machine for this purpose?)
+
+Answer: on blackboard under the software tools link under computer software setup.

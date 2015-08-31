@@ -1,0 +1,12 @@
+Procedural abstraction is the philosophy that procedure development should
+separate the concern of what is to be achieved by a procedure (a Java method)
+from the details of how it is to be achieved.  In other words, you can specify
+what you expect a method to do, then use that method in the design of a problem
+solution before you know how to implement the method.
+
+The idea of data abstraction is to specify the data objects for a problem and the
+operations to be performed on these data objects without being overly concerned
+about how they (the data objects) will be represented and stored in memory.
+
+
+source:  Koffman/Wolfgang ch 1.
